@@ -1,0 +1,16 @@
+.navbar{
+    margin: 10px 0px 30px 100px;
+}
+.navbar img{
+    margin-right: 70px;
+}
+.child{
+    margin-right: 40px;
+    font-size: 20px;
+}
+.child:hover{
+    background: #4469e4;
+    border-radius: 10px;
+}
+
+

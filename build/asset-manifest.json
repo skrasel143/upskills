@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/learnera/static/css/main.b04401c3.chunk.css",
+    "main.js": "/learnera/static/js/main.4e619f75.chunk.js",
+    "main.js.map": "/learnera/static/js/main.4e619f75.chunk.js.map",
+    "runtime-main.js": "/learnera/static/js/runtime-main.07c7d374.js",
+    "runtime-main.js.map": "/learnera/static/js/runtime-main.07c7d374.js.map",
+    "static/js/2.ac5f4d40.chunk.js": "/learnera/static/js/2.ac5f4d40.chunk.js",
+    "static/js/2.ac5f4d40.chunk.js.map": "/learnera/static/js/2.ac5f4d40.chunk.js.map",
+    "index.html": "/learnera/index.html",
+    "precache-manifest.51bb591cd1f22a73d73ac0adfc92d403.js": "/learnera/precache-manifest.51bb591cd1f22a73d73ac0adfc92d403.js",
+    "service-worker.js": "/learnera/service-worker.js",
+    "static/css/main.b04401c3.chunk.css.map": "/learnera/static/css/main.b04401c3.chunk.css.map",
+    "static/js/2.ac5f4d40.chunk.js.LICENSE.txt": "/learnera/static/js/2.ac5f4d40.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.07c7d374.js",
+    "static/js/2.ac5f4d40.chunk.js",
+    "static/css/main.b04401c3.chunk.css",
+    "static/js/main.4e619f75.chunk.js"
+  ]
+}
